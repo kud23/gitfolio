@@ -19,12 +19,12 @@ export default function Home() {
             href="/" 
             className="text-lg font-bold tracking-widest text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-fuchsia-400 hover:to-cyan-400 transition-all duration-300"
           >
-            GITFOLIO
+            KUD WORLD
           </Link>
           <div className="flex gap-8 text-xs font-bold tracking-widest uppercase text-cyan-700/80">
-            <Link href="#work" className="hover:text-cyan-400 hover:drop-shadow-[0_0_5px_rgba(34,211,238,0.8)] transition-all">PROJECTS</Link>
-            <Link href="#philosophy" className="hover:text-fuchsia-400 hover:drop-shadow-[0_0_5px_rgba(232,121,249,0.8)] transition-all">ABOUT</Link>
-            <Link href="#contact" className="hover:text-yellow-400 hover:drop-shadow-[0_0_5px_rgba(250,204,21,0.8)] transition-all">CONTACT</Link>
+            <Link href="#work" className="hover:text-cyan-400 hover:drop-shadow-[0_0_5px_rgba(34,211,238,0.8)] transition-all">CLICK</Link>
+            <Link href="#philosophy" className="hover:text-fuchsia-400 hover:drop-shadow-[0_0_5px_rgba(232,121,249,0.8)] transition-all">CLACK</Link>
+            <Link href="#contact" className="hover:text-yellow-400 hover:drop-shadow-[0_0_5px_rgba(250,204,21,0.8)] transition-all">CLONK</Link>
           </div>
         </div>
       </nav>
@@ -35,12 +35,12 @@ export default function Home() {
           <div className="space-y-2">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-cyan-500/30 bg-cyan-950/20 text-cyan-400 text-xs font-bold tracking-widest uppercase animate-pulse">
               <span className="w-2 h-2 rounded-full bg-cyan-400 shadow-[0_0_10px_rgba(34,211,238,1)]" />
-              READY TO LAUNCH
+              BRO I THINK I'M PULSING
             </div>
             <h1 className="text-5xl md:text-7xl font-bold tracking-tighter text-white leading-[1.1] drop-shadow-[0_0_15px_rgba(34,211,238,0.3)]">
-              BUILD YOUR <br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-fuchsia-500 via-purple-500 to-cyan-500 animate-gradient-x">DEVELOPER PORTFOLIO</span> <br />
-              IN MINUTES
+              AAAAAAAAA <br />
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-fuchsia-500 via-purple-500 to-cyan-500 animate-gradient-x">AAAAAAAAAAAAAAAAAAAAA</span> <br />
+              AAAAAAAAAAAAAA
             </h1>
           </div>
           <p className="text-lg md:text-xl text-cyan-100/70 max-w-2xl leading-relaxed font-light border-l-2 border-fuchsia-500/50 pl-6">
@@ -52,7 +52,7 @@ export default function Home() {
               className="group relative px-8 py-3 bg-cyan-950/30 border border-cyan-500/50 text-cyan-300 font-bold tracking-widest uppercase text-sm overflow-hidden hover:bg-cyan-900/50 transition-all hover:shadow-[0_0_20px_rgba(34,211,238,0.4)]"
             >
               <span className="relative z-10 flex items-center gap-2">
-                GET STARTED <ArrowRightIcon className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                THIS IS A BUTTON <ArrowRightIcon className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </span>
               <div className="absolute inset-0 bg-gradient-to-r from-transparent via-cyan-400/10 to-transparent -translate-x-full group-hover:animate-shimmer" />
             </Link>
@@ -157,7 +157,7 @@ export default function Home() {
         <section id="contact" className="py-20 border-t border-cyan-900/30">
           <div className="max-w-3xl mx-auto text-center space-y-8">
             <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-white drop-shadow-[0_0_10px_rgba(255,255,255,0.5)]">
-              READY TO <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-500">LAUNCH?</span>
+              THE NEXT WORD IS <span className="text-transparent bg-clip-text bg-gradient-to-r from-yellow-400 to-orange-500">ORANGE?</span>
             </h2>
             <p className="text-cyan-200/60 text-lg">
               Fork this template on GitHub and make it yours. Update the content, add your projects, and deploy to GitHub Pages in under 30 minutes.
